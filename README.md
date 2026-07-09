@@ -2,7 +2,7 @@
 
 ### MERN Stack Developer
 
-I'm a passionate developer who enjoys building modern, responsive, and user-friendly web applications. I primarily work with JavaScript, React, Next.js, Node.js, and MongoDB, and I'm continuously improving my problem-solving and full-stack development skills.
+I'm a passionate developer who enjoys building modern, responsive, and user-friendly web applications. I primarily work with JavaScript, React, Next.js, Node.js, Express.js and MongoDB, and I'm continuously improving my problem-solving and full-stack development skills.
 
 ---
 
@@ -39,17 +39,17 @@ I'm a passionate developer who enjoys building modern, responsive, and user-frie
 
 ## 📌 Featured Projects
 
-### 🩸 Blood Connect
+### 🩸 [Blood Connect](https://github.com/mehedihasan3000/M63-Assignment-10-Frontend)
 
 A modern blood donation platform that connects donors with recipients.
 
 **Tech:** Next.js • Node.js • Express.js • MongoDB • Better Auth • Tailwind CSS
 
-### 🎫 Ticketo
+### 🎫 [EduQueue](https://github.com/mehedihasan3000/M55-Assignment-09)
 
-An event management and ticket booking platform with authentication and modern UI.
+Built a tutor booking platform with real-time tutor discovery and session booking.
 
-**Tech:** Next.js • MongoDB • Node.js • HeroUI
+**Tech:** Next.js • MongoDB • Node.js • HeroUI • Better Auth
 
 ### 💼 HireLoop
 
